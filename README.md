@@ -1,4 +1,4 @@
-# supporting scripts for Publication  
+# Supporting scripts for publication  
 These macro scripts, developed for use with Fiji (ImageJ), enables batch processing of single-channel images acquired using the TruLive3D Imager Light-Sheet Fluorescence Microscopy (LSFM) system (Luxendo GmbH, Heidelberg, Germany).
 `N1_Image_opener.ijm.ijm.ijm` automatically imports the datasets without much manual intervention;
 `N2_Adjust_BR.ijm.ijm.ijm` adjusts the brightness of all opened images;
